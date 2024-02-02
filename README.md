@@ -17,7 +17,7 @@ This project makes README's a lot easier to make! This project was a great way f
 To install, download the files and install npm using npm init and npm i -y. Then run index.js to start making your README in the terminal! It will ask you a series of questions and just answer them to include them in the README.
 
 ## Usage
-Upon running "node index.js" in your terminal, the program will ask you for data to include in your README file. Once complete, the information will be included in a nicely formatted professional README layout for your convenience.
+Upon running "node index.js" in your terminal, the program will ask you for data to include in your README file. Once complete, the information will be included in a nicely formatted professional README layout for your convenience. Here is a video that demonstrates: https://drive.google.com/file/d/1L5I1BdxpLmld6e0Fcm2G9BgRo-_xh0L2/view?usp=sharing
 
 ## License
 [![License](https://img.shields.io/badge/License-LCS-brightgreen.svg)](https://opensource.org/licenses/LCS)
